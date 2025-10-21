@@ -16,7 +16,7 @@ Oct 7
 
 Oct 9
 : **5**{: .label} Memory, cloud computing
-  : [Slides](assets/slides/5. cloud.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/fa25/dsc204a_a00/5)
+  : [Slides](assets/slides/5. cloud.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/fa25/dsc204a_a00/5) &#8226; [Notes](assets/scribe_notes/oct9_scribe.pdf)
 : **Readings**{: .label .label-reading}  **(Due 10/15)**
   * **Required**: [Understanding the cloud computing stack: SaaS, PaaS, and IaaS](https://rapidscale.net/wp-content/uploads/2019/05/Understanding-the-Cloud-Stack-White-Paper.pdf)
 

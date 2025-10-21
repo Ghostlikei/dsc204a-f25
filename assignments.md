@@ -28,6 +28,8 @@ nav_order: 980
 - [Problem Statement and Rubric](../assets/problem_statements/dsc204fall2025_assignment_2.pdf)
 - Code / Submission: Datahub
 - PA2 includes 3 different notebooks, with more tasks compared with PA1. 
+- [Discussion Session Slides](../assets/problem_statements/pa2_discussion.pdf)
+- [Discussion Notebook](https://drive.google.com/file/d/13dtRi_OL6bG0y01l2t3hgzTYFI2Hx1xg/view?usp=sharing)
 
 <script src="../assets/darkmode.js"></script>
 <script>
