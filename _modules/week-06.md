@@ -17,5 +17,5 @@ Oct 30
 : **2**{: .label} 
   <!-- : [Slides]() &#8226; [Recording]() -->
 : **Readings**{: .label .label-reading}  **(Due 11/12)**
-  * **Required**: [Ray: A Distributed Framework for Emerging AI Applications](https://arxiv.org/pdf/1712.05889)
+  * **Required**: [Spark SQL: Relational Data Processing in Spark](https://dl.acm.org/doi/pdf/10.1145/2723372.2742797)
   * **Optional**: [PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-167.pdf)
