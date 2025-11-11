@@ -33,6 +33,17 @@ nav_order: 980
   - [Discussion Session Slides](../assets/problem_statements/pa2_discussion.pdf)
   - [Discussion Notebook](https://drive.google.com/file/d/13dtRi_OL6bG0y01l2t3hgzTYFI2Hx1xg/view?usp=sharing)
 
+
+## PA3: Training with Ray
+
+- Release Date: Tuesday, 11/11/2025
+- Due Date: Tuesday, 11/25/2025, 11:59PM
+- [Problem Statement and Rubric](../assets/problem_statements/dsc204fall2025_assignment_3.pdf)
+- Code / Submission: Datahub
+- PA3 consists of three tasks, each provided in its own separate notebook.
+- Discussion by TA: Monday, 11/17/2025, 4:00 PM - 5:00 PM ([Zoom](https://ucsd.zoom.us/j/8609071683)) 
+
+
 <script src="../assets/darkmode.js"></script>
 <script>
   window.addEventListener("DOMContentLoaded", (event) => {
